@@ -1,0 +1,2 @@
+a = "pranav"
+print(a)
